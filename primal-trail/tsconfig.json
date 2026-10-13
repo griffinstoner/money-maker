@@ -4,6 +4,7 @@
     "strict": true,
     "allowImportingTsExtensions": true,
     "noEmit": true,
+    "types": ["jest"],
     "paths": {
       "@game": ["./supabase/functions/_shared/game/index.ts"],
       "@/*": ["./src/*"]
