@@ -2,6 +2,8 @@
 
 Research on the most realistic ways to make money with Claude, plus a reusable prompt (`PROMPT.md`) that turns Claude into a business partner for picking one path and executing it.
 
+Also here: [`primal-trail/`](primal-trail/README.md), an MVP of a location-based creature-taming survival game (Expo + Supabase).
+
 ## What the research says (Oct 2026)
 
 Most "make money with AI" articles are SEO filler that reuse the same list. Where real numbers show up, here's how the main options compare:

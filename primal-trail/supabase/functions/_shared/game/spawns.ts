@@ -98,7 +98,7 @@ export function resourceNodesForCell(cell: Cell, now: number, cfg: GameConfig, o
   const day = Math.floor(now / NODE_LAYOUT_MS);
   const rng = seededRng(`${cfg.spawnSecret}|n|${cell.cy}|${cell.cx}|${day}`);
   const weights = NODE_WEIGHTS[biomeFor(cell, opts)];
-  const count = randInt(rng, 4, 7);
+  const count = randInt(rng, 3, 5);
   const out: ResourceNode[] = [];
   for (let i = 0; i < count; i++) {
     const type = weightedPick(rng, NODE_TYPES, (t) => weights[t] ?? 0)!;
