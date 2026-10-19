@@ -24,4 +24,7 @@ Many of these sources sell tools or courses, so read their income numbers as opt
 
 ## Business models
 
-- [Remote construction estimates](business-models/remote-construction-estimates.md): a remote "bid desk" that does takeoffs and bid-ready estimates for small subcontractors. Includes pricing, unit economics, a 12-month model, and a 30-day launch plan.
+- [Remote construction estimates](construction-estimates/): a remote "bid desk" that does takeoffs and bid-ready estimates for small subcontractors.
+  - [Business model](construction-estimates/BUSINESS-MODEL.md): pricing, unit economics, a 12-month model and a 30-day plan
+  - [Launch checklist](construction-estimates/LAUNCH.md): who does what, plus the steps to go live
+  - [Website](construction-estimates/site/), plus an [operations kit](construction-estimates/ops/) (estimate workbook, job workflow and QC checklist, Claude prompts, outreach, draft client agreement)
