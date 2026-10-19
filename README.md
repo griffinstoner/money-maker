@@ -21,3 +21,7 @@ Most "make money with AI" articles are SEO filler that reuse the same list. Wher
 Sources: [taskip: AI agency pricing](https://taskip.net/ai-automation-agency-pricing/), [developersmatrix: agency pricing](https://developersmatrix.com/blog/ai-automation-agency-pricing-2026), [superframeworks: micro-SaaS](https://superframeworks.com/articles/best-micro-saas-ideas-solopreneurs), [aimagicx: vibe-coding micro-SaaS](https://www.aimagicx.com/blog/vibe-coding-solopreneur-micro-saas-guide-2026), [Ryan Doser: selling Claude skills](https://ryandoser.com/make-money-with-claude/), [unil.ink: Zendrop guide](https://unil.ink/blog/zendrop-guide-2026), [Zendrop: dropshipper earnings](https://www.zendrop.com/blog/how-much-do-dropshippers-make/), [TrueProfit: dropshipping profitability](https://trueprofit.io/blog/is-dropshipping-profitable), [IdeasRepay: Claude side hustles](https://www.ideasrepay.com/blog/claude-ai-side-hustles).
 
 Many of these sources sell tools or courses, so read their income numbers as optimistic upper bounds, not as what to expect.
+
+## Business models
+
+- [Remote construction estimates](business-models/remote-construction-estimates.md): a remote "bid desk" that does takeoffs and bid-ready estimates for small subcontractors. Includes pricing, unit economics, a 12-month model, and a 30-day launch plan.
