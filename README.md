@@ -21,3 +21,12 @@ Most "make money with AI" articles are SEO filler that reuse the same list. Wher
 Sources: [taskip: AI agency pricing](https://taskip.net/ai-automation-agency-pricing/), [developersmatrix: agency pricing](https://developersmatrix.com/blog/ai-automation-agency-pricing-2026), [superframeworks: micro-SaaS](https://superframeworks.com/articles/best-micro-saas-ideas-solopreneurs), [aimagicx: vibe-coding micro-SaaS](https://www.aimagicx.com/blog/vibe-coding-solopreneur-micro-saas-guide-2026), [Ryan Doser: selling Claude skills](https://ryandoser.com/make-money-with-claude/), [unil.ink: Zendrop guide](https://unil.ink/blog/zendrop-guide-2026), [Zendrop: dropshipper earnings](https://www.zendrop.com/blog/how-much-do-dropshippers-make/), [TrueProfit: dropshipping profitability](https://trueprofit.io/blog/is-dropshipping-profitable), [IdeasRepay: Claude side hustles](https://www.ideasrepay.com/blog/claude-ai-side-hustles).
 
 Many of these sources sell tools or courses, so read their income numbers as optimistic upper bounds, not as what to expect.
+
+## Jarvis
+
+Open this repo in Claude Code and it becomes **Jarvis**, a business partner that runs `PROMPT.md` with you and remembers where you are between sessions.
+
+- First session: just say hi. Jarvis asks a few questions about you and saves the answers to `jarvis/profile.md`.
+- `/jarvis`: daily briefing (progress, anything that needs attention, today's top 3).
+- `/scorecard`: log the week's numbers and get the one thing to fix.
+- Memory lives in `jarvis/` (profile, scorecard, log), and deliverables go in `work/`. Jarvis commits these so they survive cloud sessions.
