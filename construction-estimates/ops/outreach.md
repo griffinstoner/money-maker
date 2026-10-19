@@ -12,6 +12,15 @@
 
 Log everyone in `pipeline-tracker.csv`.
 
+### South Carolina sources
+
+- **SCBO, South Carolina Business Opportunities** (scbo.sc.gov): the state's official bid ad listing. Filter to Construction and skip road/utility work (that's mostly SCDOT). Look for school, university, county and city building projects. Municipalities, counties and school districts advertise there too.
+- **School district procurement pages:** Greenville County Schools, Charleston County School District, Richland One / Richland Two, Horry County Schools, Berkeley County, Spartanburg districts. School renovations are steady painting/flooring work.
+- **Universities:** USC, Clemson, College of Charleston and Winthrop. Their facilities departments post capital project bids.
+- **GC portals:** big SC general contractors run invites through BuildingConnected. Sign up there for free as an estimating service to see who's bidding.
+- **Supply houses:** local paint stores (Sherwin-Williams commercial branches) and drywall suppliers in each metro know which subs are busy.
+- **Groups:** ABC Carolinas, AGC of South Carolina, Home Builders Associations (Greenville, Charleston, Columbia).
+
 ## Weekly targets
 
 | Activity | Target |

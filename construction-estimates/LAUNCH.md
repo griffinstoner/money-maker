@@ -30,16 +30,31 @@ I can build things and do the desk work. Some things legally and practically nee
 | Sending emails, taking calls, signing contracts, receiving payment | 🧑 **You** |
 | Being accountable when a number is wrong | 🧑 **You**. This is why the QC checklist exists. |
 
-**Honest bottom line:** I can do about half the hours of this business (the reading, writing, research and paperwork), but it needs you as the operator. If you have no construction background, plan on 2–3 weeks of practice takeoffs, or partner with an experienced (e.g. retired) estimator to check your work at first.
+**Honest bottom line:** I can do about half the hours of this business (the reading, writing, research and paperwork), but it needs you as the operator. You have no construction background yet, so follow **"Starting with no construction experience"** below before you sell anything.
 
 ---
 
-## Your launch steps (about 1–2 weeks of part-time work)
+## Starting with no construction experience
+
+You can do this, but **don't sell drywall takeoffs in week one.** Change the order:
+
+1. **Start with painting and flooring.** These are the simplest takeoffs: wall and floor areas from the finish schedule, plus door and frame counts. The site already lists them first. Add drywall/framing only after about 10 practice jobs, or once you have an estimating partner.
+2. **Get an experienced estimator to check your first jobs.** Look for a retired estimator or project manager who will check your takeoffs for $50–75/hr or a share of each job. Places to look: ABC Carolinas, AGC of South Carolina, local SCORE mentors (free), and estimating groups on LinkedIn. This is the single biggest risk reducer.
+3. **Learn from real plans.** Download 3–5 public SC school or university projects (see `ops/outreach.md` for where), do the painting/flooring takeoffs, and compare your quantities with the published bid tabs, where available, or with your partner's check.
+4. **Learn the vocabulary first.** Read the free training for your takeoff software, and a painting/drywall estimating guide (e.g. PDCA resources for painting). Ask Claude to explain any plan sheet or spec section line by line. That's what `ops/claude-prompts.md` is for.
+5. **Don't go out with "experience" you don't have.** Offer "free first takeoff, compare it with your numbers." That way the work earns trust before you claim anything.
+
+Expect **3–4 weeks of practice** before your first paid job, not 1–2.
+
+---
+
+## Your launch steps
 
 ### Day 1–2: Decide and set up (≈3 hrs)
-- [ ] **Pick trade + metro.** Default: commercial drywall/framing in your nearest large city.
+- [ ] **Pick a starting metro** in South Carolina: Greenville–Spartanburg (Upstate), Columbia (Midlands) or Charleston (Lowcountry). Sell statewide, since the work is remote, but focus your outreach in one area first.
 - [ ] **Pick a name.** "Takeoff Desk" is a working name. Search your state's business registry, the USPTO trademark database (TESS), and Google first. To rename, find-and-replace "Takeoff Desk" in `site/index.html`.
-- [ ] Register the business (an LLC is common, about $50–500 depending on state) and get an EIN (free at irs.gov).
+- [ ] Register an LLC with the **SC Secretary of State** (online filing; check the current fee on sos.sc.gov) and get an EIN (free at irs.gov).
+- [ ] Check with **SC LLR** (Contractor's Licensing Board) to confirm that an estimating-only service needs no contractor's license. Since you won't perform construction work it normally shouldn't, but confirm it. Also check your city/county business license.
 - [ ] Open a business bank account.
 
 ### Day 2–3: Put the site live (≈1 hr)
