@@ -12,7 +12,16 @@
 
 Log everyone in `pipeline-tracker.csv`.
 
-### South Carolina sources
+### Upstate SC sources (start here)
+
+- **School districts:** Greenville County Schools (one of the largest districts in the state), Spartanburg County School Districts 1–7, Anderson School Districts, School District of Pickens County, Oconee County Schools. Check each one's procurement/bids page weekly. Summer renovation bids land in spring.
+- **Colleges:** Clemson University (Facilities / capital projects), Furman University, Greenville Technical College, Spartanburg Community College, Tri-County Technical College, USC Upstate.
+- **Local governments:** City and County of Greenville, City of Spartanburg and Spartanburg County, Anderson County, City of Greer, City of Simpsonville. All post bids on their procurement pages and often on SCBO.
+- **Healthcare:** the large Upstate hospital systems run steady interior renovation work through their general contractors. Find which GCs build for them and get on those GCs' bid lists.
+- **Suppliers:** commercial paint stores and flooring distributors along the I-85 corridor. Ask the counter staff which commercial subs are busiest.
+- **Groups:** ABC Carolinas, AGC of South Carolina, Home Builders Association of Greenville, Greenville and Spartanburg Chambers of Commerce.
+
+### Statewide sources
 
 - **SCBO, South Carolina Business Opportunities** (scbo.sc.gov): the state's official bid ad listing. Filter to Construction and skip road/utility work (that's mostly SCDOT). Look for school, university, county and city building projects. Municipalities, counties and school districts advertise there too.
 - **School district procurement pages:** Greenville County Schools, Charleston County School District, Richland One / Richland Two, Horry County Schools, Berkeley County, Spartanburg districts. School renovations are steady painting/flooring work.

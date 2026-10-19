@@ -1,4 +1,4 @@
-# Takeoff Desk: Launch Checklist
+# Palmetto Takeoffs: Launch Checklist
 
 Everything needed to start is in this folder:
 
@@ -51,15 +51,16 @@ Expect **3–4 weeks of practice** before your first paid job, not 1–2.
 ## Your launch steps
 
 ### Day 1–2: Decide and set up (≈3 hrs)
-- [ ] **Pick a starting metro** in South Carolina: Greenville–Spartanburg (Upstate), Columbia (Midlands) or Charleston (Lowcountry). Sell statewide, since the work is remote, but focus your outreach in one area first.
-- [ ] **Pick a name.** "Takeoff Desk" is a working name. Search your state's business registry, the USPTO trademark database (TESS), and Google first. To rename, find-and-replace "Takeoff Desk" in `site/index.html`.
+- [x] **Starting area: the Upstate** (Greenville, Spartanburg, Anderson, Pickens). Outreach focuses here first. You can take remote jobs statewide.
+- [x] **Name: Palmetto Takeoffs.**
+- [ ] Before filing, confirm the name is free in the **SC Secretary of State business name search** and the **USPTO trademark search**, and that a domain is available (e.g. palmettotakeoffs.com).
 - [ ] Register an LLC with the **SC Secretary of State** (online filing; check the current fee on sos.sc.gov) and get an EIN (free at irs.gov).
 - [ ] Check with **SC LLR** (Contractor's Licensing Board) to confirm that an estimating-only service needs no contractor's license. Since you won't perform construction work it normally shouldn't, but confirm it. Also check your city/county business license.
 - [ ] Open a business bank account.
 
 ### Day 2–3: Put the site live (≈1 hr)
 - [ ] **Buy a domain** (~$12/yr at Cloudflare, Namecheap, etc.).
-- [ ] **Set up the form:** create a free Formspree account → new form → copy the form ID. In `site/index.html`, replace `YOUR_FORM_ID` in the `<form action="...">`, and replace every `hello@example.com` with your email. (Until then, the form opens the visitor's email app instead.)
+- [ ] **Set up the form:** create a free Formspree account → new form → copy the form ID. In `site/index.html`, replace `YOUR_FORM_ID` in the `<form action="...">`. Set `CONTACT_EMAIL` near the bottom of the file to show your email on the site (left blank for now, so no email appears). Until the form is connected, it tells visitors that online requests open soon. **Do this before you send any outreach.**
 - [ ] **Host it for free:** drag the `site/` folder onto **Netlify Drop** (app.netlify.com/drop) or **Cloudflare Pages**, then connect your domain. Alternatively, use GitHub Pages from this repo.
 - [ ] Set up a Google Business Profile (free) for local search.
 
