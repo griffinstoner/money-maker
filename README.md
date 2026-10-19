@@ -30,3 +30,4 @@ Open this repo in Claude Code and it becomes **Jarvis**, a business partner that
 - `/jarvis`: daily briefing (progress, anything that needs attention, today's top 3).
 - `/scorecard`: log the week's numbers and get the one thing to fix.
 - Memory lives in `jarvis/` (profile, scorecard, log), and deliverables go in `work/`. Jarvis commits these so they survive cloud sessions.
+- **Talk to Jarvis out loud:** run the voice version on your computer. See [`voice/README.md`](voice/README.md) for the 5-minute setup and a comparison of other ways to get a talking assistant.
